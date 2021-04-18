@@ -22,13 +22,13 @@
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="Web_images/Web3_1.png" height="500" alt="image">  
- 画面２ | <img src="Web_images/Web3_2.png" height="500" alt="image">  
- 画面３ | <img src="Web_images/Web3_3.png" height="500" alt="image">  
- 画面４ | <img src="Web_images/Web3_4.png" height="500" alt="image">  
- 画面５ | <img src="Web_images/Web3_5.png" height="500" alt="image">  
- 画面６ | <img src="Web_images/Web3_6.png" height="500" alt="image">  
- 画面７ | <img src="Web_images/Web3_7.png" height="500" alt="image">  
+ 画面１ | <img src="Web_images/Web4_1.png" height="500" alt="image">  
+ 画面２ | <img src="Web_images/Web4_2.png" height="500" alt="image">  
+ 画面３ | <img src="Web_images/Web4_3.png" height="500" alt="image">  
+ 画面４ | <img src="Web_images/Web4_4.png" height="500" alt="image">  
+ 画面５ | <img src="Web_images/Web4_5.png" height="500" alt="image">  
+ 画面６ | <img src="Web_images/Web4_6.png" height="500" alt="image">  
+ 画面７ | <img src="Web_images/Web4_7.png" height="500" alt="image">  
  
  デフォルト文言 | 差し替え案  
 ----|----
