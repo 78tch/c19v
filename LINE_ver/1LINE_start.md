@@ -21,14 +21,14 @@
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="Callcenter_images/LINE1_1.png" height="500" alt="image">  
- 画面２ | <img src="Callcenter_images/LINE1_2.png" height="500" alt="image">  
- 画面３ | <img src="Callcenter_images/LINE1_3.png" height="500" alt="image">  
- 画面４ | <img src="Callcenter_images/LINE1_4.png" height="500" alt="image">  
- 画面５ | <img src="Callcenter_images/LINE1_5.png" height="500" alt="image">  
- 画面６ | <img src="Callcenter_images/LINE1_6.png" height="500" alt="image">  
- 画面７ | <img src="Callcenter_images/LINE1_7.png" height="500" alt="image">  
- 画面８ | <img src="Callcenter_images/LINE1_8.png" height="500" alt="image">  
+ 画面１ | <img src="LINE_images/LINE1_1.png" height="500" alt="image">  
+ 画面２ | <img src="LINE_images/LINE1_2.png" height="500" alt="image">  
+ 画面３ | <img src="LINE_images/LINE1_3.png" height="500" alt="image">  
+ 画面４ | <img src="LINE_images/LINE1_4.png" height="500" alt="image">  
+ 画面５ | <img src="LINE_images/LINE1_5.png" height="500" alt="image">  
+ 画面６ | <img src="LINE_images/LINE1_6.png" height="500" alt="image">  
+ 画面７ | <img src="LINE_images/LINE1_7.png" height="500" alt="image">  
+ 画面８ | <img src="LINE_images/LINE1_8.png" height="500" alt="image">  
 
 
  デフォルト文言 | 差し替え案  
