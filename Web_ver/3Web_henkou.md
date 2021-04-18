@@ -13,13 +13,12 @@
 ----|----
  1.「マイページ」へのログインは、Web版の「ログイン」リンクボタンを開く | 画面１
  2.「ユーザー名」接種券番号と、パスワードを入力する | 画面２  
- 3.生年月日を入力する | 画面２  
- 4.パスワードを２回入力する（自分で決める） | 画面２  
- 5.ログイン画面になるので、「ユーザー名」に接種券番号と、パスワードを入力する | 画面３  
- 6.予約内容を確認する | 画面４※「変更、キャンセル」の位置は「２回目」の下？  
- 6 | ※「姓」様のご予約状況、と出るので、「姓」には接種券番号を再掲   
- 6.2質問履歴 | 画面４_2※不要 
- 6.3よくある質問 | 画面４_3※不要 
+ 3.「変更」ボタンをクリック | 画面３  
+ 4.変更を希望する会場を選択する | 画面４  
+ 5.変更を希望する予約枠を選択する | 画面５  ※変更で同じ枠を選ぶと「タイムスロットは以前と同じです」
+ 6.変更内容を確認し、「登録」をクリック | 画面６  
+ 7.予約変更確定画面（スクショ撮り、「マイページ」へ戻る） | 画面７  
+ 8.「マイページ」でも予約が変更されていることを確認 | 画面８  
  
 
  画面 | 画面イメージ  
@@ -28,6 +27,9 @@
  画面２ | <img src="Web_images/Web3_2.png" alt="image">  
  画面３ | <img src="Web_images/Web3_3.png" alt="image">  
  画面４ | <img src="Web_images/Web3_4.png" alt="image">  
+ 画面５ | <img src="Web_images/Web3_5.png" alt="image">  
+ 画面６ | <img src="Web_images/Web3_6.png" alt="image">  
+ 画面７ | <img src="Web_images/Web3_7.png" alt="image">  
  
  デフォルト文言 | 差し替え案  
 ----|----
@@ -35,8 +37,9 @@
  画面２． |   
  画面３． |   
  画面４． |   
- 画面４_2． |   
- 画面４_3． |   
+ 画面５． |   
+ 画面６． |   
+ 画面７． |   
 
 [戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)
 # [１予約申込](https://github.com/78tch/c19v/blob/main/Web_ver/1Web_yoyaku.md)→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→３予約変更→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
