@@ -1,4 +1,4 @@
-# Web版　１．予約申込　[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)
+# Web版　１予約申込　[トップに戻る](https://github.com/78tch/c19v)  
 # １予約申込→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
 
 ※７５歳以下の案内、受付制限  
@@ -66,5 +66,5 @@
  画面５．スクリーンショットを保存 | 2021年05月16日_ワクチン予約.png  
 
 
-[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)
-# １・[２](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)・[３](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)・[４](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
+# [トップに戻る](https://github.com/78tch/c19v)  
+# １予約申込→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  

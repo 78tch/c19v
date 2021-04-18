@@ -1,4 +1,4 @@
-# Web版　３．予約変更　[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)
+# Web版　３予約変更　[トップへ戻る](https://github.com/78tch/c19v)  
 # [１予約申込](https://github.com/78tch/c19v/blob/main/Web_ver/1Web_yoyaku.md)→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→３予約変更→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
 
 ※Web版では、予約済のひとが再度「接種券番号・生年月日」を入れた場合、入力間違いと同じエラーメッセージが出て、先には進まない。  
@@ -41,5 +41,5 @@
  画面６． |   
  画面７． |   
 
-[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)
+# [トップへ戻る](https://github.com/78tch/c19v)  
 # [１予約申込](https://github.com/78tch/c19v/blob/main/Web_ver/1Web_yoyaku.md)→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→３予約変更→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
