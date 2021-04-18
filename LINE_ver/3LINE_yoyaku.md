@@ -9,19 +9,21 @@
 
  手順 | 画面  
 ----|----  
- 1.テスト系のLINEアカウントのQRコード | 画面１    
- 2.LINEアプリのQRコードリーダーで読み取る。 | 画面２  
- 3.「会場、日付」を選ぶ。 | 画面３※「アプリ設定」が邪魔  
- 4.「接種券番号」を入力。「姓」に接種券番号、「生年月日」が出るので確認し、「登録」をクリックする。 | 画面４  
-
- 
+ 1.リッチメニューで「ワクチン接種予約」をタップする。 | 画面１    
+ 2.「接種予約」をタップする。 | 画面２  
+ 3.「接種券番号（前ゼロ省略不可の10桁、生年月日（区切りなしの8桁）」を入力。入力は画面左下隅のアイコンをタップ。 | 画面３  
+ 4.「会場、日にち」を選択する。 | 画面４  
+ 5.「予約枠」で時刻を選択する。 | 画面５  
+ 6.「予約番号」を確認する。 | 画面６  
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="LINE_images/LINE3_1.png" height="500" alt="image">  
+ 画面１ | <img src="LINE_images/LINE3_1.jpg" height="500" alt="image">  
  画面２ | <img src="LINE_images/LINE3_2.jpg" height="500" alt="image">  
  画面３ | <img src="LINE_images/LINE3_3.jpg" height="500" alt="image">  
  画面４ | <img src="LINE_images/LINE3_4.jpg" height="500" alt="image">  
+ 画面５ | <img src="LINE_images/LINE3_5.jpg" height="500" alt="image">  
+ 画面６ | <img src="LINE_images/LINE3_6.jpg" height="500" alt="image">  
 
 
 
