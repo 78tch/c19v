@@ -24,12 +24,12 @@
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="Web_images/Web2_1.png" alt="image">  
- 画面２ | <img src="Web_images/Web2_2.png" alt="image">  
- 画面３ | <img src="Web_images/Web2_3.png" alt="image">  
- 画面４ | <img src="Web_images/Web2_4.png" alt="image">  
- 画面４_2 | <img src="Web_images/Web2_4_2.png" alt="image">  
- 画面４_3 | <img src="Web_images/Web2_4_3.png" alt="image">  
+ 画面１ | <img src="Web_images/Web2_1.png" height="500" alt="image">  
+ 画面２ | <img src="Web_images/Web2_2.png" height="500" alt="image">  
+ 画面３ | <img src="Web_images/Web2_3.png" height="500" alt="image">  
+ 画面４ | <img src="Web_images/Web2_4.png" height="500" alt="image">  
+ 画面４_2 | <img src="Web_images/Web2_4_2.png" height="500" alt="image">  
+ 画面４_3 | <img src="Web_images/Web2_4_3.png" height="500" alt="image">  
  
  デフォルト文言 | 差し替え案  
 ----|----

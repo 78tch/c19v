@@ -21,15 +21,16 @@
  7.電話番号を入力 | 画面４ 
  8.メールアドレスを入力 | 画面４
  9.スクリーンショットを保存 | 画面５  
+ 10.保存された画像 | 画面６  
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="Web_images/Web1_1.png" alt="image">  
- 画面２ | <img src="Web_images/Web1_2.png" alt="image">  
- 画面３ | <img src="Web_images/Web1_3.png" alt="image">  
- 画面４ | <img src="Web_images/Web1_4.png" alt="image">  
- 画面５ | <img src="Web_images/Web1_5.png" alt="image">  
- 画面６ | <img src="Web_images/Web1_6.png" alt="image">  
+ 画面１ | <img src="Web_images/Web1_1.png" height="500" alt="image">  
+ 画面２ | <img src="Web_images/Web1_2.png" height="500" alt="image">  
+ 画面３ | <img src="Web_images/Web1_3.png" height="500" alt="image">  
+ 画面４ | <img src="Web_images/Web1_4.png" height="500" alt="image">  
+ 画面５ | <img src="Web_images/Web1_5.png" height="500" alt="image">  
+ 画面６ | <img src="Web_images/Web1_6.png" height="500" alt="image">  
 
  デフォルト文言 | 差し替え案  
 ----|----
