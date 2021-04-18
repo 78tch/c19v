@@ -23,6 +23,8 @@
  画面２ | <img src="LINE_images/LINE2_2.jpg" height="500" alt="image">  
  画面３ | <img src="LINE_images/LINE2_3.jpg" height="500" alt="image">  
  画面４ | <img src="LINE_images/LINE2_4.jpg" height="500" alt="image">  
+ 画面５ | <img src="LINE_images/LINE2_5.jpg" height="500" alt="image">  
+ 画面６ | <img src="LINE_images/LINE2_6.jpg" height="500" alt="image">  
 
 
 
