@@ -11,8 +11,8 @@
 
  手順 | 画面  
 ----|----
- 1.予約受付通知メールの「マイページ」登録リンクを開く | 画面１※リンク文字以外にもアンダーバーあり  
- 2.接種券番号は表示されている | 画面２※「入力してください」になっている  
+ 1.「マイページ」へのログインは、Web版の「ログイン」リンクボタンを開く | 画面１
+ 2.「ユーザー名」接種券番号と、パスワードを入力する | 画面２  
  3.生年月日を入力する | 画面２  
  4.パスワードを２回入力する（自分で決める） | 画面２  
  5.ログイン画面になるので、「ユーザー名」に接種券番号と、パスワードを入力する | 画面３  
@@ -24,12 +24,10 @@
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="Web_images/Web2_1.png" alt="image">  
- 画面２ | <img src="Web_images/Web2_2.png" alt="image">  
- 画面３ | <img src="Web_images/Web2_3.png" alt="image">  
- 画面４ | <img src="Web_images/Web2_4.png" alt="image">  
- 画面４_2 | <img src="Web_images/Web2_4_2.png" alt="image">  
- 画面４_3 | <img src="Web_images/Web2_4_3.png" alt="image">  
+ 画面１ | <img src="Web_images/Web3_1.png" alt="image">  
+ 画面２ | <img src="Web_images/Web3_2.png" alt="image">  
+ 画面３ | <img src="Web_images/Web3_3.png" alt="image">  
+ 画面４ | <img src="Web_images/Web3_4.png" alt="image">  
  
  デフォルト文言 | 差し替え案  
 ----|----
