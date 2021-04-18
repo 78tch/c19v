@@ -14,10 +14,9 @@ web rev
    5. 予約をキャンセルする   
 
 3. コールセンター版  
-   1. [ログイン](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_login.md)  
-   2. [予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_yoyaku.md)  
-   3. [予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_henkou.md)
-   4. [予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/4Callcenter_cancel.md)  
+   1. [予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_yoyaku.md)  
+   2. [予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)
+   3. [予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
   
 
 
