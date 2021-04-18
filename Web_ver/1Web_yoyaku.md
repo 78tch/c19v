@@ -1,4 +1,4 @@
-# Web版　１．予約申込　[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_yoyaku.md)
+# Web版　１．予約申込　[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)
 # １・[２]()・[３]()・[４]()・[５]()  
 
 ※７５歳以下の案内、受付制限  
