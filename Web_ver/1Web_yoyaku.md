@@ -1,5 +1,5 @@
 # Web版　１．予約申込　[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)
-# １・[２]()・[３]()・[４]()・[５]()  
+# １予約申込→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
 
 ※７５歳以下の案内、受付制限  
 ※予約済みの人は初期画面からは入れない。「ログイン」から「マイページ」にログインする必要あり。
@@ -19,19 +19,17 @@
  5.日付を選ぶ | 画面３  
  6.「○」を選ぶ | 画面３ 
  7.電話番号を入力 | 画面４ 
- 8.メールアドレスを入力 | 画面４ 
- 9.スクリーンショットを保存 | 画面５ 
-
-<img src="images/Web1_1.png" alt="image">  
+ 8.メールアドレスを入力 | 画面４
+ 9.スクリーンショットを保存 | 画面５  
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="images/Web1_1.png" alt="image">  
- 画面２ |   
- 画面３ |   
- 画面４ |   
- 画面５ |   
- 画面５スクショ |   
+ 画面１ | <img src="Web_images/Web1_1.png" alt="image">  
+ 画面２ | <img src="Web_images/Web1_2.png" alt="image">  
+ 画面３ | <img src="Web_images/Web1_3.png" alt="image">  
+ 画面４ | <img src="Web_images/Web1_4.png" alt="image">  
+ 画面５ | <img src="Web_images/Web1_5.png" alt="image">  
+ 画面６ | <img src="Web_images/Web1_6.png" alt="image">  
 
  デフォルト文言 | 差し替え案  
 ----|----
@@ -65,8 +63,7 @@
  画面５．にて予約しました | ※  
  画面５．当日は、会場にてこの番号をご提示ください。スクリーンショットを保存して、画面を閉じてください。 | ※  
  画面５．スクリーンショットを保存 | 2021年05月16日_ワクチン予約.png  
- 画面２．い | ※  
- 画面２．い | ※  
- 画面２．い | ※  
- 画面２．い | ※  
 
+
+[戻る](https://github.com/78tch/c19v)　[次へ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)
+# １・[２](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)・[３](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)・[４](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
