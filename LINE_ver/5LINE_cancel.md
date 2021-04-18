@@ -9,19 +9,30 @@
 
  手順 | 画面  
 ----|----  
- 1.テスト系のLINEアカウントのQRコード | 画面１    
- 2.LINEアプリのQRコードリーダーで読み取る。 | 画面２  
- 3.「会場、日付」を選ぶ。 | 画面３※「アプリ設定」が邪魔  
- 4.「接種券番号」を入力。「姓」に接種券番号、「生年月日」が出るので確認し、「登録」をクリックする。 | 画面４  
+ 1.リッチメニューで「ワクチン接種予約」をタップし、左スワイプして「キャンセル」をタップする。 | 画面１  
+ 2.「接種券番号（前ゼロ省略不可の10桁、生年月日（区切りなしの8桁）」を入力。入力は画面左下隅のアイコンをタップ。 | 画面２  
+ 3.「予約キャンセル」をタップする。 | 画面３  
+ 4.キャンセルが完了すると、改めて「予約番号」が発行されるので確認する。 | 画面４※「新規予約をお願いします」がイマイチ、「空きがあれば再予約は可能です」ぐらいか。  
+ 5.「接種券番号」入力不正 | 画面５  
+ 6.「誕生日」入力不正 | 画面６  
+ 7.予約がないのに「予約変更、キャンセル」 | 画面７  
+ 8.「予約変更」で２回目のボタンをタップ | 画面８  
+ 9.「キャンセル」で２回目のボタンをタップ | 画面９  
+
 
  
 
  画面 | 画面イメージ  
 ----|----
- 画面１ | <img src="LINE_images/LINE5_1.png" height="500" alt="image">  
+ 画面１ | <img src="LINE_images/LINE5_1.jpg" height="500" alt="image">  
  画面２ | <img src="LINE_images/LINE5_2.jpg" height="500" alt="image">  
  画面３ | <img src="LINE_images/LINE5_3.jpg" height="500" alt="image">  
  画面４ | <img src="LINE_images/LINE5_4.jpg" height="500" alt="image">  
+ 画面５ | <img src="LINE_images/LINE5_5.jpg" height="500" alt="image">  
+ 画面６ | <img src="LINE_images/LINE5_6.jpg" height="500" alt="image">  
+ 画面７ | <img src="LINE_images/LINE5_7.jpg" height="500" alt="image">  
+ 画面８ | <img src="LINE_images/LINE5_8.jpg" height="500" alt="image">  
+ 画面９ | <img src="LINE_images/LINE5_9.jpg" height="500" alt="image">  
 
 
 
