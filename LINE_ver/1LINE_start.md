@@ -1,5 +1,5 @@
 # LINE版　１友だち登録　[トップへ戻る](https://github.com/78tch/c19v)  
-# １友だち登録→[２リッチメニュー](https://github.com/78tch/c19v/blob/main/LINE_ver/2LINE_richmenu.md) →[３予約受付](https://github.com/78tch/c19v/blob/main/LINE_ver/3LINE_yoyaku.md)→[４予約変更](https://github.com/78tch/c19v/blob/main/LINE_ver/4LINE_henkou.md)→[５予約キャンセル](https://github.com/78tch/c19v/blob/main/LINE_ver/5LINE_cancel.md)  
+## １友だち登録→[２リッチメニュー](https://github.com/78tch/c19v/blob/main/LINE_ver/2LINE_richmenu.md) →[３予約受付](https://github.com/78tch/c19v/blob/main/LINE_ver/3LINE_yoyaku.md)→[４予約変更](https://github.com/78tch/c19v/blob/main/LINE_ver/4LINE_henkou.md)→[５予約キャンセル](https://github.com/78tch/c19v/blob/main/LINE_ver/5LINE_cancel.md)  
 
 ※LINE版  
 まず、「箕面市LINE公式アカウント」を友だち登録する。  
@@ -41,6 +41,6 @@
  画面６． |   
  画面７． |   
 
-# [トップへ戻る](https://github.com/78tch/c19v)  
-# １友だち登録→[２リッチメニュー](https://github.com/78tch/c19v/blob/main/LINE_ver/2LINE_richmenu.md) →[３予約受付](https://github.com/78tch/c19v/blob/main/LINE_ver/3LINE_yoyaku.md)→[４予約変更](https://github.com/78tch/c19v/blob/main/LINE_ver/4LINE_henkou.md)→[５予約キャンセル](https://github.com/78tch/c19v/blob/main/LINE_ver/5LINE_cancel.md)  
+## [トップへ戻る](https://github.com/78tch/c19v)  
+## １友だち登録→[２リッチメニュー](https://github.com/78tch/c19v/blob/main/LINE_ver/2LINE_richmenu.md) →[３予約受付](https://github.com/78tch/c19v/blob/main/LINE_ver/3LINE_yoyaku.md)→[４予約変更](https://github.com/78tch/c19v/blob/main/LINE_ver/4LINE_henkou.md)→[５予約キャンセル](https://github.com/78tch/c19v/blob/main/LINE_ver/5LINE_cancel.md)  
   

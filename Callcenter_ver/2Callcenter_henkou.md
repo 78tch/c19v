@@ -1,5 +1,5 @@
 # コールセンター版　３予約変更　[トップへ戻る](https://github.com/78tch/c19v)  
-# [１予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_yoyaku.md)→２予約変更→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
+## [１予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_yoyaku.md)→２予約変更→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
 
 ※コールセンター版  
 変更・キャンセルしたい予約の「会場・日時」を選んだのち、該当する「接種券番号」を選択して、「変更」または「キャンセル」をクリックする。  
@@ -36,5 +36,5 @@
  画面６． |   
  画面７． |   
 
-# [トップへ戻る](https://github.com/78tch/c19v)  
-# [１予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_yoyaku.md)→２予約変更→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
+## [トップへ戻る](https://github.com/78tch/c19v)  
+## [１予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_yoyaku.md)→２予約変更→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  

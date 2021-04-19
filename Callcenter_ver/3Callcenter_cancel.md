@@ -1,5 +1,5 @@
 # コールセンター版　４予約キャンセル　[トップへ戻る](https://github.com/78tch/c19v)  
-# [１ログイン](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_login.md)→[２予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_yoyaku.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_henkou.md)→４予約キャンセル  
+## [１ログイン](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_login.md)→[２予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_yoyaku.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_henkou.md)→４予約キャンセル  
   
 
 ※コールセンター版  
@@ -38,5 +38,5 @@
  画面６． |   
  画面７． |   
 
-# [トップへ戻る](https://github.com/78tch/c19v)  
-# [１予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_yoyaku.md)→[２予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)→[３予約キャンセル]  
+## [トップへ戻る](https://github.com/78tch/c19v)  
+## [１予約受付](https://github.com/78tch/c19v/blob/main/Callcenter_ver/1Callcenter_yoyaku.md)→[２予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)→[３予約キャンセル]  

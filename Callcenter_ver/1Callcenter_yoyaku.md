@@ -1,5 +1,5 @@
 # コールセンター版　１予約受付　[トップへ戻る](https://github.com/78tch/c19v)  
-# １予約受付→[２予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
+## １予約受付→[２予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
 
 ※コールセンター版  
   
@@ -41,7 +41,7 @@
  画面６． |   
  画面７． |   
 
-# [トップへ戻る](https://github.com/78tch/c19v)  
-# １予約受付→[２予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
+## [トップへ戻る](https://github.com/78tch/c19v)  
+## １予約受付→[２予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)→[３予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
   
 
