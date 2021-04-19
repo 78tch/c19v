@@ -1,5 +1,5 @@
 # Web版　１予約申込　[トップに戻る](https://github.com/78tch/c19v)  
-# １予約申込→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
+## １予約申込→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
 
 ※７５歳以下の案内、受付制限  
 ※予約済みの人は初期画面からは入れない。「ログイン」から「マイページ」にログインする必要あり。
@@ -66,5 +66,5 @@
  画面５．スクリーンショットを保存 | 2021年05月16日_ワクチン予約.png  
 
 
-# [トップに戻る](https://github.com/78tch/c19v)  
-# １予約申込→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
+## [トップに戻る](https://github.com/78tch/c19v)  
+## １予約申込→[２マイページ](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)→[３予約変更](https://github.com/78tch/c19v/blob/main/Web_ver/3Web_henkou.md)→[４予約キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/4Web_cancel.md)  
