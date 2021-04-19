@@ -1,5 +1,6 @@
 # c19v　接種予約システム　マニュアル
-web rev  
+
+## マニュアル目次  
 1. Web版    
    1. [予約申込](https://github.com/78tch/c19v/blob/main/Web_ver/1Web_yoyaku.md)  
    2. [マイページ（Web版のみ）予約の確認・変更・キャンセル](https://github.com/78tch/c19v/blob/main/Web_ver/2Web_mypage.md)
@@ -18,6 +19,13 @@ web rev
    2. [予約変更](https://github.com/78tch/c19v/blob/main/Callcenter_ver/2Callcenter_henkou.md)
    3. [予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
   
+## 解説動画  
+1. Web版    
+2. [LINE版](https://youtu.be/6fILRdCNe2c)
+4. コールセンター版  
+   1. [予約受付](https://youtu.be/uws3ANep4vA)
+   2. [予約変更](https://youtu.be/R1YJV0ThR_k)
+   3. [予約キャンセル](https://youtu.be/hXRTSp9ilr0)
 
 
 
