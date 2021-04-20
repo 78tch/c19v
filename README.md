@@ -20,9 +20,11 @@
    3. [予約キャンセル](https://github.com/78tch/c19v/blob/main/Callcenter_ver/3Callcenter_cancel.md)  
   
 ## 解説動画  
-1. Web版    
+1. Web版  
+   1. [予約申込](https://youtu.be/CXY_vqr1uq4)
+   2. [マイページ・予約変更・予約キャンセル](https://youtu.be/YxIYRxpd1Ak)
 2. [LINE版](https://youtu.be/6fILRdCNe2c)
-4. コールセンター版  
+3. コールセンター版  
    1. [予約受付](https://youtu.be/uws3ANep4vA)
    2. [予約変更](https://youtu.be/R1YJV0ThR_k)
    3. [予約キャンセル](https://youtu.be/hXRTSp9ilr0)
